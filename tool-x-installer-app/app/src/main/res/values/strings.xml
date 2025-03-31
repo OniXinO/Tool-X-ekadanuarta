@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tool-X Installer</string>
+    <string name="check_termux">Перевірити Termux</string>
+    <string name="install_termux">Встановити Termux</string>
+    <string name="install_toolx">Встановити Tool-X</string>
+    <string name="launch_toolx">Запустити Tool-X</string>
+    <string name="instructions">Інструкції</string>
+    <string name="termux_not_installed">Termux не встановлено!</string>
+    <string name="termux_installed">Termux встановлено!</string>
+    <string name="installation_progress">Прогрес встановлення</string>
+    <string name="app_description">Встановлювач Tool-X для Android</string>
+</resources>
