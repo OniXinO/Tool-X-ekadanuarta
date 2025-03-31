@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /etc/Tool-X
+python3 Tool-X.py "$@"
