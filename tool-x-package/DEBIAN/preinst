@@ -1,0 +1,5 @@
+#!/bin/bash
+# Install Python dependencies
+if [ -f /etc/Tool-X/requirements.txt ]; then
+    pip3 install -r /etc/Tool-X/requirements.txt
+fi

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Make the main script executable
+chmod +x /usr/bin/Tool-X
+chmod +x /usr/bin/toolx
